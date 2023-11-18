@@ -1,18 +1,20 @@
 {
-  "api": {
-    "posts": [
-      {
-        "title": "Login Layout",
-        "contents": "First, make the Login layout.",
-        "isDone": true,
-        "id": 1
-      },
-      {
-        "title": "Code Login",
-        "contents": "We need to code the different components of logging in.",
-        "isDone": true,
-        "id": 2
-      }
-    ]
-  }
+  "api": [
+    {
+      "posts": [
+        {
+          "title": "Login Layout",
+          "contents": "First, make the Login layout.",
+          "isDone": true,
+          "id": 1
+        },
+        {
+          "title": "Code Login",
+          "contents": "We need to code the different components of logging in.",
+          "isDone": true,
+          "id": 2
+        }
+      ]
+    }
+  ]
 }
